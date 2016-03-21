@@ -6,6 +6,8 @@ gem 'thin'
 gem 'mongoid', :git => 'https://github.com/mongoid/mongoid.git'
 gem 'bson_ext'
 gem "mongoid_rails_migrations"
+gem 'activeresource'
+gem 'pg'
 
 # Gems used only for assets and not required
 # in production environments by default.
