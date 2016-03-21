@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'ruby'
 gem 'rails', '4.2.6'
 gem 'thin'
 gem 'rails_12factor'
